@@ -11,8 +11,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/#############) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diyor_a0711) [![Telegram]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://############) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:programizdiya@gmail.com)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diya0711/diya0711/output/github-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diya0711/diya0711/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/diya0711/diya0711/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/diya0711/diya0711/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/diya0711/diya0711/output/github-snake.svg" />
 </picture>
 
