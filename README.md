@@ -8,5 +8,5 @@
 - 📫 How to reach me: programizdiya@gmail.com
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/#############) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diyor_a0711) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=Instagram&logoColor=white)](https://t.me/animora_diya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://############) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:programizdiya@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/#############) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diyor_a0711) [![Telegram](<box-icon type='logo' name='telegram'></box-icon>)](https://t.me/animora_diya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://############) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:programizdiya@gmail.com)
 
