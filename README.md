@@ -24,4 +24,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=diya0711&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br>
 
 
+##⚡ Kundalik
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diya0711/diya0711/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diya0711/diya0711/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/diya0711/diya0711/output/github-snake.svg" />
+</picture>
+
   
