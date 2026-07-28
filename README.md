@@ -54,28 +54,24 @@ My main goal right now is to become stronger in **Python, algorithms, and proble
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=diya0711\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=diya0711\&theme=dark\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diya0711\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=diya0711\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
-
----
 
 ## 🐍 My Contribution Snake
 
+## 🐍 My GitHub Contributions
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diya0711/diya0711/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diya0711/diya0711/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/diya0711/diya0711/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/diya0711/diya0711/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/diya0711/diya0711/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/diya0711/diya0711/output/github-snake.svg"
+  />
 </picture>
 
 ---
