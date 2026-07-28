@@ -51,29 +51,6 @@ Global IT Competition 🏆
 ```
 
 My main goal right now is to become stronger in **Python, algorithms, and problem solving** and eventually participate in a **global IT competition**.
-
----
-
-
-## 🐍 My Contribution Snake
-
-## 🐍 My GitHub Contributions
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/diya0711/diya0711/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/diya0711/diya0711/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/diya0711/diya0711/output/github-snake.svg"
-  />
-</picture>
-
 ---
 
 ## 🌐 Connect With Me
@@ -83,7 +60,6 @@ My main goal right now is to become stronger in **Python, algorithms, and proble
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:programizdiya@gmail.com)
 
 ---
-
 ### 💜 Keep Learning. Keep Building. Keep Growing. 🚀
 
 Thanks for visiting my profile! ⭐
